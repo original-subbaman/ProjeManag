@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">ProjeManag</string>
+
+    <string name="image_contentDescription">image</string>
+    <string name="let_s_get_started_text">Let\'s Get started</string>
+    <string name="intro_text_description">Collaborate and Plan Together Across Multiple Devices on Projemanag’s Minimalist Interface.</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="sign_up">SIGN UP</string>
+
+    <!-- Main Activity -->
+    <string name="no_boards_are_available">No Boards</string>
+
+    <!-- SignUp Activity -->
+    <string name="sign_up_description_text">Enter your name, email id and password</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="please_wait">Please Wait</string>
+    <string name="please_click_back_again_to_exit">Please click back again to exit</string>
+    <string name="please_enter_your_email">Please enter your email id</string>
+    <string name="please_enter_your_password">Please enter your password</string>
+    <string name="registration_failed">Registration failed</string>
+
+    <!-- Nav Drawer -->
+    <string name="my_profile">My profile</string>
+    <string name="sign_out">Sign Out</string>
+
+    <!-- MyProfile Activity -->
+    <string name="mobile">Mobile</string>
+    <string name="update">UPDATE</string>
+    <string name="my_profile_title">My Profile</string>
+
+    <!-- CreateBoardActivity -->
+    <string name="create_board_title">Create Board</string>
+    <string name="create">CREATE</string>
+    <string name="board_name">Board Name</string>
+    <string name="empty_board_name_text">Please provide a board name</string>
+
+    <!-- Item Task -->
+    <string name="action_add_list">Add List</string>
+    <string name="hint_list_name">List Name</string>
+    <string name="action_add_card">Add Card</string>
+    <string name="hint_card_name">Card Name</string>
+    <string name="add_list">Add List</string>
+
+    <!-- Activity Members -->
+    <string name="members">Members</string>
+    <string name="add_member">Add Members</string>
+    <string name="add">ADD</string>
+    <string name="cancel">CANCEL</string>
+    <string name="search_member">Add Member</string>
+
+    <!-- Activity Card Details -->
+    <string name="label_color">Label Color</string>
+    <string name="select_color">Select Color</string>
+    <string name="select_members">Select Members</string>
+    <string name="due_date">Due Date</string>
+    <string name="select_due_date">Select Due Date</string>
+    <string name="delete_card">Delete Card</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="confirmation_message_to_delete_card">Are you sure you want to delete this card?</string>
+    <string name="alert">Alert</string>
+
+    <!-- Card Color Selector -->
+    <string name="str_select_label_color">Select Label Color</string>
+
+    <string name="str_select_member">Select Member</string>
+    <string name="default_notification_channel_id">projemanag_notification_channel_id</string>
+    <string name="upload_board_image">Upload Board Image</string>
+    <string name="delete_board">delete board</string>
+</resources>
